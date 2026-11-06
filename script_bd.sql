@@ -141,4 +141,4 @@ CREATE TABLE estoque (
 INSERT INTO estoque (quantidade, localizacao_almacenar, id_produto) VALUES
 (50, 'Corredor A - Prateleira 3', 1),
 (20, 'Corredor B - Prateleira 1', 2),
-(150, 'Corredor C - Prateleira 5', 3)
+(150, 'Corredor C - Prateleira 5', 3);
