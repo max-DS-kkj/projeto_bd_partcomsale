@@ -113,7 +113,7 @@ CREATE TABLE carrinho (
 INSERT INTO carrinho (quantidade, preco_unitario, id_cliente, id_produto) VALUES
 (1, 79.90, 1, 3),
 (2, 850.00, 2, 2),
-(1, 1999.90, 3, 1)
+(1, 1999.90, 3, 1);
 
 CREATE TABLE pagamento (
     id_pagamento SERIAL PRIMARY KEY,
